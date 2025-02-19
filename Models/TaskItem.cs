@@ -1,6 +1,6 @@
 using System;
 
-namespace AdvancedCSharpDemo.Models
+namespace TaskProcessingDemo.Models
 {
     public enum TaskStatus { Pending, InProgress, Completed }
 

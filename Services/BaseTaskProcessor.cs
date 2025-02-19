@@ -1,9 +1,9 @@
-using AdvancedCSharpDemo.Models;
+using TaskProcessingDemo.Models;
 using System;
 using System.Collections.Generic;
 using System.Threading;
 
-namespace AdvancedCSharpDemo.Services
+namespace TaskProcessingDemo.Services
 {
     public abstract class BaseTaskProcessor : ITaskProcessor
     {

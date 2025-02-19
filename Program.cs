@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using AdvancedCSharpDemo.Models;
-using AdvancedCSharpDemo.Services;
-using AdvancedCSharpDemo.Utilities;
+using TaskProcessingDemo.Models;
+using TaskProcessingDemo.Services;
+using TaskProcessingDemo.Utilities;
 
 class Program
 {

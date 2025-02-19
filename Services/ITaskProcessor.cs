@@ -1,8 +1,8 @@
-using AdvancedCSharpDemo.Models;
+using TaskProcessingDemo.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace AdvancedCSharpDemo.Services
+namespace TaskProcessingDemo.Services
 {
     public interface ITaskProcessor
     {

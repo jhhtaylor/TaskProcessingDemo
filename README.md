@@ -1,4 +1,4 @@
-# AdvancedCSharpDemo
+# TaskProcessingDemo
 
 A complex C# project demonstrating real-world concepts, including threading, interfaces, async programming, and LINQ.
 
@@ -14,7 +14,7 @@ A complex C# project demonstrating real-world concepts, including threading, int
 ## How to Run
 
 1. Open the terminal and navigate to the project:
-    `cd AdvancedCSharpDemo`
+    `cd TaskProcessingDemo`
 2. Run the project:
     `dotnet run`
 

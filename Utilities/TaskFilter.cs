@@ -1,9 +1,9 @@
-using AdvancedCSharpDemo.Models;
+using TaskProcessingDemo.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AdvancedCSharpDemo.Utilities
+namespace TaskProcessingDemo.Utilities
 {
     public static class TaskFilter
     {
